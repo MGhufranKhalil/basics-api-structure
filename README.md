@@ -1,10 +1,6 @@
-## jeeDelivery
+## Basics API WITH JWT
  
-
-### About jeeDelivery
-
-jeeDelivery is a mobile application to support delivery businesses
-
+ 
 ## Prerequisites
     - PHP 8
     - Latest Composer
